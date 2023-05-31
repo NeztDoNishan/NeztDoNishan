@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @NeztDo Nishan
+- 👀 I’m interested in R&D
+- 🌱 I’m currently learning JS
+- 💞️ I’m looking to collaborations
+- 📫 How to reach me nishan@neztdo.au
